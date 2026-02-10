@@ -1,4 +1,12 @@
-## Olá! Eu sou a Lidia Messias, desenvolvedora web front-end
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LidiaMessias/LidiaMessias/main/caricature_banner.png" alt="Lidia Messias - Front-end Developer" />
+</p>
+
+## Hello, I'm Lidia Messias.
+💻 Front-end Developer | React • TypeScript • JavaScript  
+🎨 Clean UI • Performance • Continuous learning
+
+<br/>
 <div align="center">
   <a href="https://github.com/LidiaMessias">
   <img height="180em" width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=LidiaMessias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
