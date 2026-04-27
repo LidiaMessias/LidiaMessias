@@ -12,25 +12,26 @@
   <img height="180em" width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=LidiaMessias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="49%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=LidiaMessias&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lidia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lidia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Lidia-Rea" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/react/react-original.svg">
-  <img align="center" alt="Lidia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lidia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lidia-Tail" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Lidia-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/java/java-original.svg">
-  <img align="center" alt="Lidia-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/spring/spring-original.svg">
-  <img align="center" alt="Lidia-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Lidia-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Lidia-AZ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/azure/azure-original.svg">
-  <img align="center" alt="Lidia-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/git/git-original.svg">
-  <img align="center" alt="Lidia-GHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/github/github-original.svg">
-  <img align="center" alt="Lidia-An" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="Lidia-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Lidia-MoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align="center" alt="Lidia-Ex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img align="center" alt="Lidia-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/c/c-original.svg">
+<br>
+<div>
+  <img align="center" alt="Lidia-Js" height="35" hspace="6" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lidia-Ts" height="35" hspace="6" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Lidia-Rea" height="35" hspace="6" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/react/react-original.svg">
+  <img align="center" alt="Lidia-HTML" height="35" hspace="6" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lidia-CSS" height="35" hspace="6" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lidia-Tail" height="35" hspace="6" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Lidia-JAVA" height="35" hspace="6" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/java/java-original.svg">
+  <img align="center" alt="Lidia-JAVA" height="35" hspace="6" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/spring/spring-original.svg">
+  <img align="center" alt="Lidia-MySQL" height="35" hspace="6" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Lidia-AWS" height="35" hspace="6" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Lidia-AZ" height="35" hspace="6" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/azure/azure-original.svg">
+  <img align="center" alt="Lidia-Git" height="35" hspace="6" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/git/git-original.svg">
+  <img align="center" alt="Lidia-GHub" height="35" hspace="6" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/github/github-original.svg">
+  <img align="center" alt="Lidia-An" height="35" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="Lidia-Node" height="35" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Lidia-MoDB" height="35" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" alt="Lidia-Ex" height="35" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img align="center" alt="Lidia-C" height="35" hspace="6" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/c/c-original.svg">
                       
 </div>
   
